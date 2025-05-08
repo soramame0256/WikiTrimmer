@@ -16,3 +16,7 @@ java Main
 ```
 を実行してください。<br>
 実行が完了するとwikiTrimmed.txtが生成されます。
+# 余談
+WikiTrimer ×<br>
+WikiTrimmer 〇<br>
+プロジェクト名決めた後に気づきました。
